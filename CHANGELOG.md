@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.8.0 (2025-08-12)
+
+### Features
+
+- Added the `@kameleoon/react-native-platform-analyzer` package to the React Native install script.
+
 ## 1.7.0 (2025-06-27)
 
 ### Features
