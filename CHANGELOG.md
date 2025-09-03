@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.8.1 (2025-09-03)
+
+### Patch Changes
+
+- Fixed an issue where the install script incorrectly suggested installing the `@kameleoon/react-native-platform-analyzer` package when it was not required.
+
 ## 1.8.0 (2025-08-12)
 
 ### Features
