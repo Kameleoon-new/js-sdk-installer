@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.9.0 (2026-02-06)
+
+### Features
+
+- Added support for MMKV version 4.
+
 ## 1.8.1 (2025-09-03)
 
 ### Patch Changes
