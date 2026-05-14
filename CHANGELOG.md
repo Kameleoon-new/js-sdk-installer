@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.9.1 (2026-05-13)
+
+### Patch Changes
+
+- Stability and performance improvements
+
 ## 1.9.0 (2026-02-06)
 
 ### Features
